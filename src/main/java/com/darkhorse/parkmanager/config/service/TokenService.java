@@ -2,7 +2,6 @@ package com.darkhorse.parkmanager.config.service;
 
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 import org.springframework.security.core.Authentication;
